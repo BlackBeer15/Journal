@@ -1,0 +1,27 @@
+@media only screen and (max-width:1024px) {
+	.headline {
+		width: 80%;
+	}
+
+	.inp-blc {
+		flex-wrap: wrap;
+	}
+
+	.tabel-query button {
+		margin-top: 50px;
+	}
+
+	.inp-blc div {
+		margin-bottom: 10px;
+	}
+
+	.table-student {
+		font-size: 14px;
+	}
+}
+
+@media only screen and (max-width:768px) {
+	.table-student {
+		font-size: 10px;
+	}
+}
